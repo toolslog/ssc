@@ -1,0 +1,27 @@
+{
+  "name": "dchdvcj",
+  "description": "container",
+  "keywords": [
+    "web"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "slogss",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "slogsscc",
+      "value": "6c722163-17c5-429e-9c83-ef0cb799fba8",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocket",
+      "value": "/rdf",
+      "required": true
+    }
+  },
+  "website": "https://github.com/csh/scs",
+  "repository": "https://github.com/csh/scs",
+  "stack": "container"
+}
