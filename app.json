@@ -23,5 +23,8 @@
   },
   "website": "https://github.com/csh/scs",
   "repository": "https://github.com/csh/scs",
-  "stack": "container"
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
 }
