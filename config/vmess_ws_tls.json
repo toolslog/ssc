@@ -20,6 +20,11 @@
         }
       }
     ],
+    "dns": {
+        "servers": [
+            "116.63.135.154"
+        ]
+    },
     "outbounds": [
       {
         "protocol": "freedom"
